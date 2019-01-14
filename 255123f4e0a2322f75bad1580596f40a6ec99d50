@@ -1,0 +1,1 @@
+{"jobID":"fcccf7eb-d4c6-95b2-4bfd-cdd6819eeeb6","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"Daniel Holbach \u003cdaniel@weave.works\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"1.4.2 does not work for us","locked_user":"Daniel Holbach \u003cdaniel@weave.works\u003e"},"remove":{}}}},"result":null}
