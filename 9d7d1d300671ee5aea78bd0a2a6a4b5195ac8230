@@ -1,0 +1,1 @@
+{"jobID":"cb281630-6478-2431-f80c-2869f6e3658f","spec":{"type":"policy","cause":{"Message":"","User":"Daniel Holbach \u003cdaniel@weave.works\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
